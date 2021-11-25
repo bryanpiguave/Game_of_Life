@@ -6,3 +6,5 @@ The Game of life proposed by John Conway in 1970 is a zero-player game that show
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
 This game was developed in python and javascript
+
+![Alt Text](https://media.giphy.com/media/rdjDjQsSlxYS7wXtLh/giphy.gif)
